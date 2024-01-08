@@ -10,6 +10,7 @@ public class UploadingProjectOnGitHubApplication {
 		SpringApplication.run(UploadingProjectOnGitHubApplication.class, args);
 		
 		System.out.println("This is a testing app");
+		System.out.println("Testing for new updates");
 	}
 
 }
